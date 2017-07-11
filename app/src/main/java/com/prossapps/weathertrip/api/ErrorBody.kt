@@ -7,9 +7,6 @@ import retrofit2.Response
 import java.io.IOException
 
 
-/**
- * Created by andrewkhristyan on 10/31/16.
- */
 
 data class ErrorBody(val code: Int, @SerializedName("error") val message: String) {
 
