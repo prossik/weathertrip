@@ -1,8 +1,6 @@
 package client.yalantis.com.githubclient.api
 
-/**
- * Created by Alexey on 07.10.2016.
- */
+
 
 object ApiSettings {
     const val QUERY = "q"

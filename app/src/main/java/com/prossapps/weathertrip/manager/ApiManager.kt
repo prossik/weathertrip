@@ -12,9 +12,7 @@ import rx.android.schedulers.AndroidSchedulers
 import rx.schedulers.Schedulers
 
 
-/**
- * Created by andrewkhristyan on 10/5/16.
- */
+
 object ApiManager {
     private const val SERVER: String = "http://samples.openweathermap.org/"
 

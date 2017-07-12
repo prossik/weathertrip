@@ -11,9 +11,6 @@ import java.net.SocketException
 import java.net.SocketTimeoutException
 import java.net.UnknownHostException
 
-/**
- * Created by andrewkhristyan on 10/31/16.
- */
 
 class GeneralErrorHandler(view: BaseMvpView? = null,
                           private val mShowError: Boolean = false,
